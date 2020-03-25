@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-tic-tac-toe
+3x3 tic tac toe game 
